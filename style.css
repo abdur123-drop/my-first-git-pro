@@ -1,0 +1,14 @@
+.first{
+    background-color: aqua;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.second{
+    border: 2px solid;
+    margin-bottom: 5px;
+}
+.third{
+    background-color: blueviolet;
+    color: white;
+    padding: 1px;
+}
